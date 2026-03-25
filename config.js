@@ -1,5 +1,0 @@
-module.exports = {
-  token: process.env.DISCORD_TOKEN,
-  SAFE_GUARD_GUILD: "1403052163541766246",
-  LCRP_GUILD: "1362801695100244291"
-};
